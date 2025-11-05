@@ -7,3 +7,8 @@ console.log(login);
 const payment = "yes"
 console.log(payment);
 
+const  payment_done = "Payment done";
+console.log(payment_done);
+
+const recipt = "downlod recipt";
+console.log(recipt);
