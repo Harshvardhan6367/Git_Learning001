@@ -18,3 +18,6 @@ console.log(recipt);
 
 
 console.log("this is update")
+
+
+console.log("bug fixed")
