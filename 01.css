@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 40px;
+    background-color: aquamarine;
+
+}
+
+p{
+    background-color: blueviolet;
+}
+
+ul{
+    font-size: 50px;
+    background-color: tomato;
+}
